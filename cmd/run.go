@@ -6,9 +6,9 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/siglt/tosknight/config"
-	"github.com/siglt/tosknight/crawler"
-	"github.com/siglt/tosknight/source"
+	"github.com/thekeon/tosknight/config"
+	"github.com/thekeon/tosknight/crawler"
+	"github.com/thekeon/tosknight/source"
 )
 
 const (
